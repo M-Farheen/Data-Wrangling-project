@@ -1,6 +1,9 @@
 
 # FIFA Data Cleaning Project
 
+![world cup](https://github.com/M-Farheen/FIFA_DATA_CLEANING_CHALLENGE-1/blob/main/Images.jpg)
+
+
 This project is a part of data cleaning challenge held in a data community aimed at cleaning the FIFA dataset, which contains information on the ratings and attributes of football players from the video game FIFA. The dataset is quite large, containing over 18,000 rows and 100 columns, and as such, it requires extensive cleaning to make it suitable for analysis.
 
 ## Table of Contents
