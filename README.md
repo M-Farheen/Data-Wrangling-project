@@ -94,21 +94,3 @@ In this project, we will perform the following cleaning steps:
 
 4. Standardizing units: We will standardize the units used in the dataset to ensure consistency and facilitate comparisons.
 
-## Exploratory Data Analysis
-
-Once the dataset has been cleaned, we can start exploring it. In this project, we will perform exploratory data analysis (EDA) to gain insights into the data and identify any patterns or trends.
-
-Our EDA will include the following:
-
-1. Descriptive statistics
-: We will calculate various summary statistics such as mean, median, and standard deviation to describe the distribution of the data.
-
-2. Visualizations: We will create various visualizations such as histograms, box plots, and scatter plots to explore the relationships between variables and identify any outliers or anomalies.
-
-3. Correlation analysis: We will calculate correlation coefficients to identify any relationships between variables and determine which attributes are most important in determining a player's overall rating.
-
-4. Clustering analysis: We will use clustering algorithms such as k-means clustering to group similar players together based on their attributes.
-
-## Conclusion
-
-In this project, we will perform data cleaning and exploratory data analysis on the FIFA 19 player dataset. We will use various statistical and machine learning techniques to gain insights into the data and identify any patterns or trends.
